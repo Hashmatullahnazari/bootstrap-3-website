@@ -1,0 +1,50 @@
+
+
+.navbar {
+  background-color: #FFC312;
+font-family: 'Share Tech', sans-serif;
+}
+
+
+.navbar .navbar-toggle 
+{
+    border: 1px solid #000;
+}
+
+.navbar .icon-bar 
+{
+     border: 1px solid #000;
+    
+}
+.navbar .navbar-brand 
+{
+    color: #000;
+    font-size: 25px;
+    
+}
+
+.navbar .collapse .nav a 
+{
+    color: #000;
+}
+
+.navbar .collapse .nav a:hover
+{
+    background-color: #FFC312;
+}
+
+
+
+.navbar .active {
+    background-color: #ffd32a;
+}
+
+.navbar .collapse .nav a:visited
+{
+    background-color: #FFC312;
+}
+
+
+
+
+
